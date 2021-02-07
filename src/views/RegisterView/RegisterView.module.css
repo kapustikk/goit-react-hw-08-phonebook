@@ -1,0 +1,23 @@
+.form {
+  max-width: 600px;
+  padding: 60px 0px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.textField {
+  margin-bottom: 20px !important;
+  width: 100%;
+  background-color: #fff !important;
+}
+
+.title {
+  text-align: center;
+}
+
+.div {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}

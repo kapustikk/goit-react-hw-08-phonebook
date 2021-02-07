@@ -1,0 +1,14 @@
+.text {
+  text-align: center;
+  color: white;
+  font: 1em sans-serif;
+  font-size: 34px;
+}
+
+.homePhoto {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  width: 600px;
+  border-radius: 2px;
+}

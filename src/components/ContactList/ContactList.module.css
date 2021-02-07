@@ -1,0 +1,16 @@
+.contactList {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  padding: 10px;
+  font-size: 22px;
+}
+
+.allContacts {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: 1px solid gainsboro;
+}
